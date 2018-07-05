@@ -9,6 +9,8 @@ Build Restful CRUD API to be consumed by angular App  ## [Developer Test cases W
 
 3. Mysql - 5.x.x
 
+4. [Angular App as FrontEnd](https://github.com/bmmuffy/movie-app)
+
 ## Steps to Setup
 
 **1. Clone the application**
@@ -43,6 +45,8 @@ mvn spring-boot:run
 
 The app will start running at <http://localhost:8080>.
 
+
+
 ## Explore Rest APIs
 
 The app defines following CRUD APIs.
@@ -61,7 +65,23 @@ git clone https://github.com/bmmuffy/movie-app.git
 ```
 
 
-You should be ready to go....
+On the Angular app just clone it from the Repo provided above.
+Go to the root folder that is the folder with package.json file
+
+run 
+
+```bash
+ng serve
+```
+
+the app listens at <http://localhost:4200>.
+
+You are done 
+
+Enjoy the app 
+
+
+
 
 
 
