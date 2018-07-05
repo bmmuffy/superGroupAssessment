@@ -1,4 +1,4 @@
-# superGroupAssessment  (Spring Boot, MySQL, JPA, Hibernate Rest API Using JWT tockens)
+# superGroupAssessment  (Spring Boot, MySQL, JPA, Hibernate Rest API Using JWT tokens)
 
 Build Restful CRUD API to be consumed by angular App  ## [Developer Test cases Wiki](../../wiki)
 ## Requirements
